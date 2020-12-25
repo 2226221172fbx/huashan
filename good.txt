@@ -1,4 +1,8 @@
+HEAD
 aa
 bb
-cc edit hot_fix
-
+c edit hot_fix
+aaa
+bbb
+ccc       edit master
+master
